@@ -7,4 +7,4 @@ The mouse moved from a different direction, produce the masking effect
 
 ## 效果示例
 
-点击查看效果 [地址]()
+点击查看效果 [地址](https://summerboys.github.io/mask/)
